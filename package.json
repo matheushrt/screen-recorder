@@ -2,7 +2,7 @@
   "name": "screen-recorder",
   "productName": "screen-recorder",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A simple screen recorder built with electron js",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
